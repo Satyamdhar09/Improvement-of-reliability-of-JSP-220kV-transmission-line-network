@@ -1,4 +1,4 @@
-# Improvement-of-reliability-of-JSP-220kV-transmission-line-network
+# Internship Jindal Steel and Power Ltd.
 – Title of Project : Improvement of Reliability of 220kV Transmission Line Network
 – Learning : Learned about the challenges to reliability of 220kV transmission line network and conducted data
 analysis of factors affecting reliability.
